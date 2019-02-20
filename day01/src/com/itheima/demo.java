@@ -11,4 +11,9 @@ public class demo {
         System.out.println("Git");
     }
 
+    public void test1() {
+        int i = 0;
+        System.out.println(i);
+    }
+
 }
